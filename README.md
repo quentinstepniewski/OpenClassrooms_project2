@@ -8,14 +8,14 @@
 
 Data manipulation project based on WorldBank <a href='https://datacatalog.worldbank.org/dataset/education-statistics'>Edstats dataset</a>
 
-Use the data to rate countries based on their relevance for an online courses business establishment
+Use the data to rate countries based on their relevance to establish an online courses business
 * Proceed with a basic EDA 
 * Univariate analysis
-* Create a ranking dataset of countries based on chosen relevant indicators
+* Create a ranking-dataset of countries based on chosen relevant indicators
 
 ## Assessed Skills:
 
-* Data Exploration 
+* Data exploration 
 * Data manipulation (Pandas, Numpy)
-* Data Representation (Matplotlib, Seaborn)
+* Data eepresentation (Matplotlib, Seaborn)
 
