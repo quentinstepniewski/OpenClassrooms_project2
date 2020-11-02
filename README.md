@@ -8,9 +8,10 @@
 
 Data manipulation project based on WorldBank <a href='https://datacatalog.worldbank.org/dataset/education-statistics'>Edstats dataset</a>
 
-Proceed with a basic EDA 
-
-Univariate analysis
+Use the data to rate countries based on their relevance for an online courses business establishment
+* Proceed with a basic EDA 
+* Univariate analysis
+* Create a ranking dataset of countries based on chosen relevant indicators
 
 ## Assessed Skills:
 
